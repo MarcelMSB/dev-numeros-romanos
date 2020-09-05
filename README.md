@@ -1,6 +1,6 @@
 # Caixa Eletrônico :heavy_check_mark:
 
-<div style="text-align: right">Esta é uma aplicação back-end que simule uma movimentação de entrega de notas quando um cliente efetua um saque em um caixa eletrônico. As notas disponíveis são R$ 100,00; R$ 50,00; R$ 20,00 e R$ 10,00. Este desafio esta foi proposta em [DojoPuzzles.com](http://dojopuzzles.com/problemas/exibe/caixa-eletronico/)</div>
+<div style="text-align: right">Esta é uma aplicação back-end que simule uma movimentação de entrega de notas quando um cliente efetua um saque em um caixa eletrônico. As notas disponíveis são R$ 100,00; R$ 50,00; R$ 20,00 e R$ 10,00. Este desafio esta foi proposta em <a href="http://dojopuzzles.com/problemas/exibe/caixa-eletronico/">DojoPuzzles</a>.</div>
 
 ## Linguagens e libs utilizadas :books:
 
