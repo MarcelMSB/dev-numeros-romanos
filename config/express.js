@@ -11,6 +11,7 @@ module.exports = () => {
 
   consign({cwd: 'api'})
     .then('data')
+    .then('service')
     .then('controllers')
     .then('routes')
     .into(app);
